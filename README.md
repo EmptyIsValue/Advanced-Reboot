@@ -1,5 +1,5 @@
 # Advanced Reboot
-Name: Advanced Reboo
+Name: Advanced Reboot
 
 License: Freeware
 
