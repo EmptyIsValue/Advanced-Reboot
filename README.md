@@ -1,19 +1,13 @@
 # Advanced Reboot
+Name: Advanced Reboo
 
-Name: Advanced Reboot
+License: Freeware
 
-Version: v0.3.5.0 Beta
+# Desc
+As name of these tools, it makes you easy to acces such as Direct To UEFI, To Win Recovery, also avilable for Nomal Nomal and Shutdow.
 
-Publisher: Irfan Muharam
+You can imagine every go to the UEFI without pressing F2 or Del on Keyboard. I thought you must have this Tools, especially for Overclocker, how many is reboot and entering uefi randomly
 
-License : Freeware
+Available with Advanced Reboot and (Only) ToUEFI.
 
--------------------------
 
-CRC32	: 537da158
-
-MD5	: 960a3cd503d8192af2adc69e07ea7983
-
-SHA256	: 094cc0123ac949f527c2f1a4d04131c18c34cbd42e448301a27c573faec08a52
-
---------------------------
