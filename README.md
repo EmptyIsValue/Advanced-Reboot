@@ -1,4 +1,4 @@
-# Advanced Reboot
+# About
 Name: Advanced Reboot
 
 License: Freeware
