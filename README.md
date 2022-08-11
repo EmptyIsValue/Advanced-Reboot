@@ -9,7 +9,7 @@ Available with Advanced Reboot and (Only) ToUEFI.
 
 Freeware
 
-# Screenshoot
+# Screenshot
 
 <p align="center">
 <img src="https://abload.de/img/advm8dfv.png">
