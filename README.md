@@ -10,5 +10,5 @@ You can imagine every go to the UEFI without pressing F2 or Del on Keyboard. I t
 
 Available with Advanced Reboot and (Only) ToUEFI.
 
-[https://github.com/irfanmuharam/Advanced-Reboot/releases/](url)
+
 
