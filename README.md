@@ -5,7 +5,7 @@ As the name of these tools;
 - Boot To Win Recovery.
 - Nomal Reboot and Shutdown.
 
-Enter to the UEFI without pressing F2 or Del on Keyboard. I thought you must have these Tools, especially for Overclockers.
+Enter to the UEFI without pressing F2 or Del on Keyboard. I thought you must have these tools, especially for Overclockers.
 
 Available with Advanced Reboot and (Only) ToUEFI.
 
