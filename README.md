@@ -5,9 +5,7 @@ You can imagine every go to the UEFI _without pressing F2 or Del on Keyboard_ . 
 
 Available with Advanced Reboot and (Only) ToUEFI.
 
-This is just another way, there are some shortcut like this. 
-
-before.
+This is just another way, there are some shortcut like this before.
 
 # License
 Freeware
