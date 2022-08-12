@@ -8,7 +8,7 @@ Enter to the UEFI without pressing F2 or Del on Keyboard. I thought you must hav
 
 Available with Advanced Reboot and (Only) ToUEFI.
 
-This is just another way, there are some shortcut like this before.
+This is just another way, there are some shortcuts like this before.
 
 # License
 Freeware
