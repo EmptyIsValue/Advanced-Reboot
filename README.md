@@ -1,6 +1,5 @@
 # Description
-As the name of these tools;
-
+As the name of these tools
 - Direct Boot To UEFI easily.
 - Boot To Win Recovery.
 - Nomal Reboot and Shutdown.
