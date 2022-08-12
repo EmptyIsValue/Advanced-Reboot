@@ -3,9 +3,9 @@ As the name of these tools;
 
 - Direct Boot To UEFI easily.
 - Boot To Win Recovery.
-- lso avilable for Nomal Reboot and Shutdown.
+- Nomal Reboot and Shutdown.
 
-Enter to the UEFI _without pressing F2 or Del on Keyboard_ . I thought you must have these Tools, especially for Overclockers.
+Enter to the UEFI without pressing F2 or Del on Keyboard. I thought you must have these Tools, especially for Overclockers.
 
 Available with Advanced Reboot and (Only) ToUEFI.
 
