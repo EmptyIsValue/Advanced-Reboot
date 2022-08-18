@@ -12,11 +12,11 @@ This is just another way, there are some shortcuts like this before.
 
 # Usage
 
-After run app
+After run the app;
 
-Press Enter for *ToUEFI*,
+- Press __Enter__ for *ToUEFI*,
 
-Tab to choose menu for *Advanced Reboot*.
+- Press __Tab__ to choose menu for *Advanced Reboot*.
 
 # License
 Freeware
