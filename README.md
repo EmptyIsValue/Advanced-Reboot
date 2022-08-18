@@ -10,6 +10,9 @@ Available with Advanced Reboot and (Only) ToUEFI.
 
 This is just another way, there are some shortcuts like this before.
 
+# USAGE
+Run and hit Enter for ToUEFI, and using tab to choose menu for Advanced Reboot.
+
 # License
 Freeware
 
