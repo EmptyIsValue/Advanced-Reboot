@@ -8,10 +8,9 @@ __Keep in mine! That these apps can only run under windows.__
 
 There are three for Reboot Options;
 
-- Reboot To UEFI.
-- Shutdown To UEFI.
-- Boot To Win Recovery.
-- Nomal Reboot and Shutdown.
+- Advanced Reboot (Many Options)
+- Reboot To UEFI
+- Shutdown To UEFI
 
 # Usage
 
