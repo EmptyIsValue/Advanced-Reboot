@@ -9,7 +9,8 @@ There are three for Reboot Options;
 - Advanced Reboot (Many Options)
 - Reboot To UEFI
 - Shutdown To UEFI
-__<p align="center">Thehe tools can only run under windows.</p>__
+
+__<p align="center">These tools can only run under windows.</p>__
 
 # Usage
 
