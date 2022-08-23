@@ -4,11 +4,17 @@ Enter to the UEFI without pressing F2 or Del on Keyboard. I thought you must hav
 
 This is just another way, there are some shortcuts like this before
 
-There are three for Reboot Options;
+There are three for Reboot Options:
 
 - Advanced Reboot (Many Options)
 - Reboot To UEFI
 - Shutdown To UEFI
+
+OS Compatibility:
+
+- Windows 7 x86 x64
+- Windows 10 x86 x64
+- Windows 11 x86 x64
 
 __<p align="center">These tools can only run under windows.</p>__
 
