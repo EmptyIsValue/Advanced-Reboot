@@ -1,6 +1,7 @@
 # Description
 As the name of these tools
-- Direct Boot To UEFI easily.
+- Reboot To UEFI.
+- Shutdown To UEFI.
 - Boot To Win Recovery.
 - Nomal Reboot and Shutdown.
 
@@ -16,18 +17,20 @@ Keep in mine, this app can only run under windows.
 
 After run the app;
 
-- Press __Enter__ for *ToUEFI*,
+- Press __Enter__ for r__ RebootToUEFir__  or r__ ShutdownToUEFIr__ ,
 
-- Press __Tab__ to choose menu for *Advanced Reboot*.
+- Press __Tab__ to choose menu for r__ Advanced Rebootr__ .
 
 # License
 Freeware
 
 # Screenshot
 <p align="center">
-<img src="https://abload.de/img/advm8dfv.png">
+<img src="https://abload.de/img/advanced-rebootufe0c.png">
 </p>
 <p align="center">
-<img src="https://abload.de/img/touefil8ds0.png"> 
+<img src="https://abload.de/img/reboottouefiwddfw.png"> 
+</p><p align="center">
+<img src="https://abload.de/img/shutdowntouefiy1do5.png"> 
 </p>
 
