@@ -23,12 +23,16 @@ After run the app;
 Freeware
 
 # Screenshot
+
+__<p align="center">[Advanced Reboot]</p>__
 <p align="center">
 <img src="https://abload.de/img/advanced-rebootufe0c.png">
 </p>
-<p align="center">
+
+__<p align="center">[Reboot To UEFI]</p>__<p align="center">
 <img src="https://abload.de/img/reboottouefiwddfw.png"> 
-</p><p align="center">
+
+__<p align="center">[Shutdown To UEFI]</p>__</p><p align="center">
 <img src="https://abload.de/img/shutdowntouefiy1do5.png"> 
 </p>
 
