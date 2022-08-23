@@ -11,7 +11,7 @@ Available with Advanced Reboot and (Only) ToUEFI.
 
 This is just another way, there are some shortcuts like this before.
 
-Keep in mine, this app can only run under windows.
+__Keep in mine! That these apps can only run under windows.__
 
 # Usage
 
