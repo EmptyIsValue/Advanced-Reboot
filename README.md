@@ -7,8 +7,6 @@ As the name of these tools
 
 Enter to the UEFI without pressing F2 or Del on Keyboard. I thought you must have these tools, especially for Overclockers.
 
-Available with Advanced Reboot and (Only) ToUEFI.
-
 This is just another way, there are some shortcuts like this before.
 
 __Keep in mine! That these apps can only run under windows.__
@@ -17,9 +15,9 @@ __Keep in mine! That these apps can only run under windows.__
 
 After run the app;
 
-- Press __Enter__ for r__ RebootToUEFir__  or r__ ShutdownToUEFIr__ ,
+- Press __Enter__ for __RebootToUEFi__  or __ShutdownToUEFI__ ,
 
-- Press __Tab__ to choose menu for r__ Advanced Rebootr__ .
+- Press __Tab__ to choose menu for __Advanced Reboot__ .
 
 # License
 Freeware
