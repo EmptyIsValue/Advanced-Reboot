@@ -16,8 +16,6 @@ __<p align="center">These tools can only run under windows.</p>__
 
 After run the app;
 
-- Press __Enter__ for __RebootToUEFi__  or __ShutdownToUEFI__ ,
-
 - Press __Tab__ to choose menu for __Advanced Reboot__ .
 
 # License
