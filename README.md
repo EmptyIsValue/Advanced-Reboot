@@ -14,9 +14,7 @@ __<p align="center">These tools can only run under windows.</p>__
 
 # Usage
 
-After run the app;
-
-- Press __Tab__ to choose menu for __Advanced Reboot__ .
+- __Tab__ to choose menu
 
 # License
 Freeware
