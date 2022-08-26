@@ -10,7 +10,7 @@ Which One Your Favourite?
 - ShutdownToUEFI
 - EasyToUEFI
 
-OS Compatibility:
+OS Compatibility
 
 - Windows 7 x86 x64
 - Windows 10 x86 x64
