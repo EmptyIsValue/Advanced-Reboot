@@ -8,7 +8,7 @@ Which One Your Favourite?
 - Advanced Reboot
 - RestartToUEFI
 - ShutdownToUEFI
-- EasyToUEFI (Execute = Double Click!)
+- EasyToUEFI
 
 OS Compatibility:
 
@@ -22,6 +22,7 @@ __<p align="center">These tools can only run under windows.</p>__
 
 - Enter for __RestartToUEFI__ & __ShutdownToUEFI__
 - __Tab__ to choose menu for __Advanced Reboot__
+- __Double Click (No Confirm)__ for __EasyToUEFI__
 
 # License
 Freeware
