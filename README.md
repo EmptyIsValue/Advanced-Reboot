@@ -4,11 +4,11 @@ Enter to the UEFI without pressing F2 or Del on Keyboard. I thought you must hav
 
 This is just another way, there are some shortcuts like this before
 
-Choose Your Fav Tool;
-
+Which One Your Favourite?
 - Advanced Reboot
 - RestartToUEFI
 - ShutdownToUEFI
+- EasyToUEFI (Execute = Double Click!)
 
 OS Compatibility:
 
