@@ -16,8 +16,6 @@ OS Compatibility
 - Windows 10 x86 x64
 - Windows 11 x86 x64
 
-__<p align="center">These tools can only run under windows.</p>__
-
 # Usage
 
 - Enter for __RestartToUEFI__ & __ShutdownToUEFI__
