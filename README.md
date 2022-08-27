@@ -1,6 +1,6 @@
 # Description
 
-Enter to the UEFI without pressing F2 or Del on Keyboard. I thought you must have these tools, especially for Overclockers.
+Enter to the UEFI without pressing F2 or Del on Keyboard. Very useful especially for Overclockers.
 
 This is just another way, there are some shortcuts like this before
 
