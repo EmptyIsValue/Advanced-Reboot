@@ -18,7 +18,7 @@ OS Compatibility
 
 # Usage
 
-- Enter for __RestartToUEFI__ & __ShutdownToUEFI__
+- __Enter__ for __RestartToUEFI__ & __ShutdownToUEFI__
 - __Tab__ to choose menu for __Advanced Reboot__
 - __Double Click (No Confirm)__ for __EasyToUEFI__
 
