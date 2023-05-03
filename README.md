@@ -18,8 +18,8 @@ OS Compatibility
 
 # Usage
 
-- __Enter__ for __RestartToUEFI__ & __ShutdownToUEFI__
 - __Tab__ to choose menu for __Advanced Reboot__
+- __Enter__ for __RestartToUEFI__ & __ShutdownToUEFI__
 - __Double Click (No Confirm)__ for __EasyToUEFI__
 
 # License
