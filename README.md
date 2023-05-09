@@ -6,8 +6,6 @@ This is just another way, there are some shortcuts like this before
 
 Which One Your Favourite?
 - Advanced Reboot
-- RestartToUEFI
-- ShutdownToUEFI
 - EasyToUEFI
 
 OS Compatibility
@@ -19,7 +17,6 @@ OS Compatibility
 # Usage
 
 - __Tab__ to choose menu for __Advanced Reboot__
-- __Enter__ for __RestartToUEFI__ & __ShutdownToUEFI__
 - __Double Click (No Confirm)__ for __EasyToUEFI__
 
 # License
