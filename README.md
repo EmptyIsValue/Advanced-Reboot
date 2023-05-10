@@ -16,7 +16,7 @@ OS Compatibility
 
 # Usage
 
-- __Choose Option_ for __Advanced Reboot__
+- __Choose Option__ for __Advanced Reboot__
 - __Double Click (No Confirm)__ for __EasyToUEFI__
 
 # License
