@@ -2,7 +2,7 @@
 
 Enter to the UEFI without pressing F2 or Del on Keyboard. Very useful especially for Overclockers.
 
-This is just another way, there are some shortcuts like this before
+This is just another way, there are some shortcuts like this before.
 
 Which One Your Favourite?
 - Advanced Reboot
