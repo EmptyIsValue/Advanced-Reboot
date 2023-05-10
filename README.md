@@ -10,14 +10,10 @@ Which One Your Favourite?
 
 OS Compatibility
 
+- Windows 7 x86 x64
 - Windows 8/8.1 x86 x64
 - Windows 10 x86 x64
 - Windows 11 x86 x64
-
-# Usage
-
-- __Choose Option__ for __Advanced Reboot__
-- __Double Click (No Confirm)__ for __EasyToUEFI__
-
+- 
 # License
 Freeware
