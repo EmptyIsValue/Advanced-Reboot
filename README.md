@@ -14,6 +14,7 @@ OS Compatibility
 - Windows 8/8.1 x86 x64
 - Windows 10 x86 x64
 - Windows 11 x86 x64
-- 
+
+
 # License
 Freeware
